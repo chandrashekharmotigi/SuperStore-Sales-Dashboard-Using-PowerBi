@@ -27,3 +27,4 @@ In this project, I leveraged two years of sales data from SuperStore, a fictiona
 - 🔍**Sales forecasting** for predicting future sales trends and performance based on historical data and user inputs.  <br>
 
 The dashboard is designed to be user-friendly, interactive, and informative, enabling users to explore and understand online sales data in depth and make data-driven decisions. 🌐💡 <br>
+
